@@ -33,36 +33,37 @@ takes longer to build, takes resources to maintain, and doesn't provide real cus
  
 ## Heading ##
 E Z Reader
-  <!-- > Name the product in a way the reader (i.e. your target customers) will understand. -->
+  <!-- Name the product in a way the reader (i.e. your target customers) will understand. -->
 
 ## Sub-Heading ##
 Users of reader board signs
-  <!-- > Describe who the market for the product is and what benefit they get. One sentence only underneath the title. -->
+  <!--  Describe who the market for the product is and what benefit they get. One sentence only underneath the title. -->
 
 ## Summary ##
 Easily gives user the letters to add and remove when updating the text of a message on a reader board sign
-  <!-- > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good. -->
+  <!--  Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good. -->
 
 ## Problem ##
 Having manually calculating the letters with pen & paper
-  <!-- > Describe the problem your product solves. -->
+  <!--  Describe the problem your product solves. -->
 
 ## Solution ##
 Throw away the pen and paper! (Recycle the paper of course)
-  <!-- > Describe how your product elegantly solves the problem. -->
+  <!--  Describe how your product elegantly solves the problem. -->
 
 ## Quote from You ##
 Coolest software since sliced bread
-  <!-- > A quote from a spokesperson in your company. -->
+  <!--  A quote from a spokesperson in your company. -->
 
 ## How to Get Started ##
 A few keystrokes is all it takes
-  <!-- > Describe how easy it is to get started. -->
+  <!--  Describe how easy it is to get started. -->
 
 ## Customer Quote ##
 "Really is the coolest software since sliced bread, if slice bread was a software of course"
     - Joe User, Sweet River, UT
-  <!-- > Provide a quote from a hypothetical customer that describes how they experienced the benefit. -->
+  <!--  Provide a quote from a hypothetical customer that describes how they experienced the benefit. -->
 
 ## Closing and Call to Action ##
-  <!-- > Wrap it up and give pointers where the reader should go next. -->
+Don't wait
+<!--  Wrap it up and give pointers where the reader should go next. -->
