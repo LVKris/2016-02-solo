@@ -1,0 +1,40 @@
+<!doctype html>
+<html ng-app="myApp">
+  <head>
+    <title>EZ Reader</title>
+    <!-- <link href="main.css" rel="stylesheet"> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+    <script src="clock.js"></script>
+    <script src="main.js"></script>
+ <style>
+  textarea {
+    margin: 100px 60px 60px 100px;
+    font-size: 5em;
+    text-transform: uppercase;
+    /*background-image: url("pattern_038.gif");*/
+    background-color: #EEEEEE;
+    /*white-space: nowrap;*/
+    overflow: auto;
+    border: none;
+    outline:none;
+  }
+  h1 {
+    color:red;
+  }
+  body {
+    background-color:lightwhite;
+    /*background-image: url("pattern_038.gif");*/
+  }
+</style>
+   
+  </head>
+  <body>
+  <div ng-controller="MyController">
+    <textarea class="kris" rows="4" cols="26" name="sign-text" placeholder="SIGN TEXT GOES HERE" wrap="off"></textarea>
+
+    <h1>Hello World!</h1>
+    <h2>The current time is:</h2>
+    <h2>{{ clock }}</h2>
+  </div>
+  </body>
+</html>
