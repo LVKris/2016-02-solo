@@ -32,7 +32,7 @@ takes longer to build, takes resources to maintain, and doesn't provide real cus
  -->
  
 ## Heading ##
- > E Z Reader
+ E Z Reader
   > Name the product in a way the reader (i.e. your target customers) will understand.
 
 ## Sub-Heading ##
