@@ -33,7 +33,7 @@ takes longer to build, takes resources to maintain, and doesn't provide real cus
  
 ## Heading ##
 E Z Reader
-  <!-- Name the product in a way the reader (i.e. your target customers) will understand. -->
+  <!-- Name the product in a way the reader (i.e. your target customers) will understand. test-->
 
 ## Sub-Heading ##
 Users of reader board signs
@@ -60,7 +60,7 @@ A few keystrokes is all it takes
   <!--  Describe how easy it is to get started. -->
 
 ## Customer Quote ##
-"Really is the coolest software since sliced bread, if slice bread was a software of course"
+"Really is the coolest software since sliced bread, if sliced bread was software of course"
     - Joe User, Sweet River, UT
   <!--  Provide a quote from a hypothetical customer that describes how they experienced the benefit. -->
 
