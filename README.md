@@ -44,7 +44,7 @@ takes longer to build, takes resources to maintain, and doesn't provide real cus
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
 ## Problem ##
- No more manually calculating the letters
+ Having manually calculating the letters with pen & paper
   > Describe the problem your product solves.
 
 ## Solution ##
