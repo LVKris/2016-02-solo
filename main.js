@@ -2,7 +2,6 @@ var app = angular.module('myApp', []);
 
 app.controller('MyController', function($scope) {
   
-  
   $scope.updateCnt = function() {
     var letUsed = {};
     var signText = $scope.textBlock.toUpperCase();
@@ -12,19 +11,17 @@ app.controller('MyController', function($scope) {
     var validChar = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!"#$%&\'()*+,-./:;=?@¢¼½¾“⅓';
     
     var ordered = [], obj;
+    // var obj = {};
     for (var i = 0, len = validChar.length; i < len; i++) {
       if (letUsed[validChar.charAt(i)]) {
-        obj = {};
-        obj[validChar.charAt(i)] = letUsed[validChar.charAt(i)];
-        ordered.push(obj);
+        // obj = {};
+        // obj['letter'] = validChar.charAt(i);
+        // obj['count'] = letUsed[validChar.charAt(i)];
+        // ordered.push(obj);
+        ordered.push({'letter':validChar.charAt(i), 'count':letUsed[validChar.charAt(i)]});
       }
     }
-    
-    // for (var i = 0; i < $scope.textBlock.length; i++) {
-    //   str += $scope.textBlock.charCodeAt(i) + '|';
-    // }
     $scope.textBack = ordered;
-  
   }
   
   
